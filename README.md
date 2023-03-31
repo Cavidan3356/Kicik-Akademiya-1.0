@@ -1,0 +1,1 @@
+# Kicik-Akademiya-1.0
