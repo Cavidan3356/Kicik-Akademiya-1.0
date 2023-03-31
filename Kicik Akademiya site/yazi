@@ -1,0 +1,333 @@
+		</section>
+		<div class="favorite__wrap">
+			<p class="favorite_text">Choose favourite course from top cartegories</p>
+			<p class="little-text">See all</p>
+		</div>
+		<section class="scroll__wrap">
+			<div class="card__wrapper">
+				<p class="card__text">Marketing</p>
+			</div>
+			<div class="card__wrapper">
+				<p class="card__text">Design</p>
+			</div>
+			<div class="card__wrapper">
+				<p class="card__text">Programming</p>
+			</div>
+			<div class="card__wrapper">
+				<p class="card__text">Technology</p>
+			</div>
+		</section>
+
+
+
+
+        
+
+        <section class="course__wrapper">
+			<div class="course__title">
+				<p>Most Popular Courses</p>
+				<button>
+					<img class="ticket" src="./assets/img/ticket.svg" alt="" /> Sort by
+				</button>
+			</div>
+			<div class="course__card__wrap">
+				<div class="course__card">
+					<img src="./assets/img/courseimg.png" alt="" />
+					<div class="course__card__content">
+						<div class="course__card__title">
+							<p class="card__title">Learn Marketing from Top Instructors.</p>
+							<div class="star__img">
+								<img src="./assets/img/star.svg" alt="" /> 4.5
+							</div>
+						</div>
+						<div class="card__desc__wrap">
+							<p class="card__week">6 weeks</p>
+							<p class="card__student">1.5k Students</p>
+							<p class="card__salary">30.5$</p>
+						</div>
+					</div>
+				</div>
+				<div class="course__card">
+					<img src="./assets/img/courseimg.png" alt="" />
+					<div class="course__card__content">
+						<div class="course__card__title">
+							<p class="card__title">Learn Marketing from Top Instructors.</p>
+							<div class="star__img">
+								<img src="./assets/img/star.svg" alt="" /> 4.5
+							</div>
+						</div>
+						<div class="card__desc__wrap">
+							<p class="card__week">6 weeks</p>
+							<p class="card__student">1.5k Students</p>
+							<p class="card__salary">30.5$</p>
+						</div>
+					</div>
+				</div>
+				<div class="course__card">
+					<img src="./assets/img/courseimg.png" alt="" />
+					<div class="course__card__content">
+						<div class="course__card__title">
+							<p class="card__title">Learn Marketing from Top Instructors.</p>
+							<div class="star__img">
+								<img src="./assets/img/star.svg" alt="" /> 4.5
+							</div>
+						</div>
+						<div class="card__desc__wrap">
+							<p class="card__week">6 weeks</p>
+							<p class="card__student">1.5k Students</p>
+							<p class="card__salary">30.5$</p>
+						</div>
+					</div>
+				</div>
+				<div class="course__card">
+					<img src="./assets/img/courseimg.png" alt="" />
+					<div class="course__card__content">
+						<div class="course__card__title">
+							<p class="card__title">Learn Marketing from Top Instructors.</p>
+							<div class="star__img">
+								<img src="./assets/img/star.svg" alt="" /> 4.5
+							</div>
+						</div>
+						<div class="card__desc__wrap">
+							<p class="card__week">6 weeks</p>
+							<p class="card__student">1.5k Students</p>
+							<p class="card__salary">30.5$</p>
+						</div>
+					</div>
+				</div>
+				<div class="course__card">
+					<img src="./assets/img/courseimg.png" alt="" />
+					<div class="course__card__content">
+						<div class="course__card__title">
+							<p class="card__title">Learn Marketing from Top Instructors.</p>
+							<div class="star__img">
+								<img src="./assets/img/star.svg" alt="" /> 4.5
+							</div>
+						</div>
+						<div class="card__desc__wrap">
+							<p class="card__week">6 weeks</p>
+							<p class="card__student">1.5k Students</p>
+							<p class="card__salary">30.5$</p>
+						</div>
+					</div>
+				</div>
+				<div class="course__card">
+					<img src="./assets/img/courseimg.png" alt="" />
+					<div class="course__card__content">
+						<div class="course__card__title">
+							<p class="card__title">Learn Marketing from Top Instructors.</p>
+							<div class="star__img">
+								<img src="./assets/img/star.svg" alt="" /> 4.5
+							</div>
+						</div>
+						<div class="card__desc__wrap">
+							<p class="card__week">6 weeks</p>
+							<p class="card__student">1.5k Students</p>
+							<p class="card__salary">30.5$</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+
+
+
+
+
+
+
+
+		<section class="education__section">
+			<div class="edu__title">We Bring The Good Education To Life</div>
+			<div class="edu__wrap">
+				<div class="edu__img__wrap">
+					<img src="./assets/img/education.png" alt="" class="edu__img" width:
+					430px; height: 461.43px;/>
+				</div>
+				<div class="edu__content__wrap">
+					<p class="edu__content__title">
+						Let Your Education Do <br />
+						The Walking
+					</p>
+					<div class="edu__shop">
+						<ul>
+							<li class="edu__list">
+								<img src="./assets/img/book.svg" class="list__img" alt="" />Free
+								E-book, Videos and kits
+							</li>
+							<li class="edu__list">
+								<img src="./assets/img/book.svg" class="list__img" alt="" />Free
+								Learn at your own pace
+							</li>
+							<li class="edu__list">
+								<img src="./assets/img/book.svg" class="list__img" alt="" />Free
+								Collaborate with different learners around the globe
+							</li>
+							<li class="edu__list">
+								<img src="./assets/img/book.svg" class="list__img" alt="" />Free
+								Top instructors around the globe
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="contactus__wrap" id="padd">
+			<div class="contact__wrap">
+				<div class="contactus__content">
+					<div>
+						
+					</div>
+					<div class="contact__content">
+						<p class="contact__title">
+							You don’t have to see the <br />
+							whole staircase just take the <br />
+							first step
+						</p>
+						<p class="contact__desc">
+							Amet in a suspendisse convallis eget, Amet in a <br />
+							suspendisse convallis egetAmet in a
+						</p>
+						<button class="contact__btn-green">Get Started</button>
+						<button class="contact__btn-white">Place a call</button>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<footer class="footer-section bg_img">
+			<div class="container">
+				<div class="footer-top padding-bottom">
+					<ul class="social-icons">
+						<li>
+							<a
+								target="_blank"
+								href="https://www.instagram.com/it.innovations/"
+								rel="noreferrer"
+								><i class="fab fa-instagram"></i
+							></a>
+						</li>
+						<li>
+							<a href="https://www.facebook.com/itinnovationsaz"
+								><i class="fab fa-facebook-messenger"></i
+							></a>
+						</li>
+						<li>
+							<a
+								target="_blank"
+								href="https://wa.me/+994515000654"
+								rel="noreferrer"
+								><i class="fab fa-telegram-plane"></i
+							></a>
+						</li>
+						<li>
+							<a
+								target="_blank"
+								href="https://wa.me/+994515000654"
+								rel="noreferrer"
+								><i class="fab fa-whatsapp"></i
+							></a>
+						</li>
+						<li>
+							<a
+								target="_blank"
+								href="https://goo.gl/maps/LGgGUA9qYPoJ7sNfA"
+								rel="noreferrer"
+								><i class="fas fa-location-arrow"></i
+							></a>
+						</li>
+						<li>
+							<a
+								target="_blank"
+								href="mailto:office@itinnovations.az"
+								rel="noreferrer"
+								><i class="fas fa-envelope-open-text"></i
+							></a>
+						</li>
+						<li>
+							<a target="_blank" href="tel:+994515000654" rel="noreferrer"
+								><i class="fas fa-phone-alt"></i
+							></a>
+						</li>
+					</ul>
+				</div>
+				<div class="footer-bottom">
+					<ul class="footer-link">
+						<li>
+							<a aria-current="page" class="active" href="/">Ana Səhifə</a>
+						</li>
+						<li><a class="active" href="/about">Haqqımızda</a></li>
+						<li><a class="active" href="/contact">Əlaqə</a></li>
+					</ul>
+				</div>
+				<div class="copyright">
+					<p>
+						Copyright © 2023. All Rights Reserved By
+						<a aria-current="page" class="text-success active" href="/"
+							>IT INNOVATIONS ACADEMY</a
+						>
+					</p>
+				</div>
+			</div>
+		</footer>
+
+        <div class="container">
+					<div class="footer-top padding-bottom">
+						<ul class="social-icons">
+							<li>
+								<a
+									target="_blank"
+									href="https://www.instagram.com/it.innovations/"
+									rel="noreferrer"
+									><i class="fab fa-instagram"></i
+								></a>
+							</li>
+							<li>
+								<a href="https://www.facebook.com/itinnovationsaz" 
+								><i class="fab fa-facebook-messenger" ></i
+											></a>
+							</li>
+							<li>
+								<a
+									target="_blank"
+									href="https://wa.me/+994515000654"
+									rel="noreferrer"
+									><i class="fab fa-telegram-plane"></i
+								></a>
+							</li>
+							<li>
+								<a
+									target="_blank"
+									href="https://wa.me/+994515000654"
+									rel="noreferrer"
+									><i class="fab fa-whatsapp"></i
+								></a>
+							</li>
+							<li>
+								<a
+									target="_blank"
+									href="https://goo.gl/maps/LGgGUA9qYPoJ7sNfA"
+									rel="noreferrer"
+									><i class="fas fa-location-arrow"></i
+								></a>
+							</li>
+							<li>
+								<a
+									target="_blank"
+									href="mailto:office@itinnovations.az"
+									rel="noreferrer"
+									><i class="fas fa-envelope-open-text"></i
+								></a>
+							</li>
+							<li>
+								<a target="_blank" href="tel:+994515000654" rel="noreferrer"
+									><i class="fas fa-phone-alt"></i
+								></a>
+							</li>
+						</ul>
+					</div>
+
+
+
+

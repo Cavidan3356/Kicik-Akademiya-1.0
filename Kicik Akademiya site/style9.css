@@ -1,0 +1,190 @@
+.login{
+    color: rgb(255, 255, 255);
+    border:none;
+    border-radius: 3px;
+    padding: 12px 30px;
+    background-color: rgb(78, 255, 78);
+}
+.signin{
+    background-color: rgb(255, 174, 0);
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 5px;
+    padding: 12px 24px;
+}
+body{
+padding: 1px;
+}
+header{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+   background-color: rgb(255, 255, 255);
+    border:solid rgb(122, 122, 122);
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-radius: 5px;
+}
+ul{
+    list-style: none;
+    display: flex;
+    gap: 24px;
+}
+ul li a{
+   text-decoration: none;
+   color: grey; 
+}
+li:hover {
+    border: 1px solid rgb(252, 118, 118); /* kenar rengi */
+   
+    color: white; /* yazı rengi */
+    padding: 5px 5px;
+    border-radius: 10px;
+    font-size: 60px;
+  }
+  
+.esas{
+    padding: 10px;
+}
+.button-group{
+    display: flex;
+}
+section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 77px;
+    border-radius: 35px;
+    padding: 29px 80px 30px 80px;
+}
+h1{
+    font-weight: 700;
+    line-height: 90px;
+    font-size: 60px;
+}
+span{
+    color: green;
+}
+
+li{
+    font-weight: 700;
+    line-height: 25px;
+    font-size: 25px;
+}
+.but{
+    font-weight: 700;
+    line-height: 70px;
+    font-size: 25px;
+    padding-right:10px;
+    padding-left:10px;
+color: aliceblue;
+background-color: green;
+    
+}
+.but span{
+    color: aliceblue;
+    list-style: none;
+    text-decoration: none;
+
+}
+.but span a{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
+.arzu{
+    padding-top:0px;
+}
+.title{
+    text-align: center;
+}
+.is{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    color: orange;
+}
+.div{
+    background-color: rgb(32, 28, 44);
+    display: flex;
+    border-radius: 20px;
+    padding: 10px 10px;
+}
+.ders{
+    font-weight: 700;
+    line-height: 25px;
+    font-size: 25px;
+    color: white;
+}
+.sek{
+    border-radius: 20px;
+}
+.span{
+    color:blue;
+}
+.heyət{
+    align-items: center;
+
+
+}
+.dir{
+    border:red;
+    border-radius: 1000px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.sen{
+    border-radius:30px;
+    border: black;
+}
+.bas{
+    border:solid rgb(122, 122, 122);
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-radius: 5px;
+    background-image: url();
+}
+.fiz{
+    border:solid rgb(122, 122, 122);
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-radius: 5px;
+}
+.oz{
+color: orange;
+}
+.kol{
+    border-radius: 30px;
+    border: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: solid black;
+    border: solid white;
+}
+.mi{
+    color: orange;
+}
+.ki{
+    border-radius:20px;
+background-color: white;
+    border: solid black;
+    padding: 30px;
+}
+.hey{
+    border:solid black ;
+    border-radius: 30px;
+}
+.heyd{
+    background-color: black;
+    border-radius: 0px;
+
+}
+.soz{
+    color: white;
+    align-items: center;
+}
